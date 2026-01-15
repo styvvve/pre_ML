@@ -1,0 +1,102 @@
+Language,Founder/Creator,Year
+Python,Guido van Rossum,1991
+JavaScript,Brendan Eich,1995
+Java,James Gosling,1995
+C,Dennis Ritchie,1972
+C++,Bjarne Stroustrup,1985
+C#,Microsoft (Anders Hejlsberg lead),2000
+Go,"Robert Griesemer, Rob Pike, Ken Thompson",2009
+Rust,Graydon Hoare (Mozilla),2010
+TypeScript,Microsoft (Anders Hejlsberg),2012
+Swift,Apple (Chris Lattner lead),2014
+Kotlin,JetBrains,2011
+PHP,Rasmus Lerdorf,1995
+Ruby,Yukihiro Matsumoto (Matz),1995
+Perl,Larry Wall,1987
+R,Ross Ihaka & Robert Gentleman,1993
+MATLAB,Cleve Moler,1984
+SQL,Donald D. Chamberlin & Raymond F. Boyce,1974
+HTML/CSS,Tim Berners-Lee (HTML),1990
+Dart,Google (Lars Bak & Kasper Lund),2011
+Scala,Martin Odersky,2004
+Lua,"Roberto Ierusalimschy, Waldemar Celes, Luiz Henrique de Figueiredo",1993
+Groovy,James Strachan,2003
+Haskell,Simon Peyton Jones et al.,1990
+Elixir,José Valim,2011
+Erlang,Joe Armstrong,1986
+Fortran,John Backus (IBM),1957
+COBOL,Grace Hopper & others,1959
+Assembly,Various (machine dependent),1949
+Julia,"Jeff Bezanson, Stefan Karpinski, Viral Shah",2012
+Objective-C,Brad Cox & Tom Love,1984
+Ada,Jean Ichbiah (CII Honeywell Bull),1983
+Visual Basic,Microsoft,1991
+VB.NET,Microsoft,2002
+F#,Microsoft (Don Syme),2005
+Delphi/Object Pascal,Anders Hejlsberg,1995
+Racket,Matthew Flatt et al.,1995
+Scheme,Guy L. Steele & Gerald Jay Sussman,1975
+Lisp,John McCarthy,1958
+Prolog,Alain Colmerauer,1972
+OCaml,INRIA (Xavier Leroy et al.),1996
+Crystal,Yuki Nishijima,2014
+Nim,Andreas Rumpf,2008
+Zig,Andrew Kelley,2016
+V,Alexander Medvednikov,2019
+Carbon,Google (Chandler Carruth),2022
+Mojo,Modular (Chris Lattner & team),2023
+Solidity,Gavin Wood,2014
+Apex,Salesforce,2007
+ABAP,SAP,1983
+Scratch,MIT Media Lab (Mitchel Resnick),2007
+PowerShell,Microsoft (Jeffrey Snover),2006
+Bash/Shell,Brian Fox (for Bash),1989
+Power Query (M),Microsoft,2010
+VHDL,DARPA/IBM/others,1987
+Verilog,Phil Moorby,1984
+SystemVerilog,Co-design Automation (later Synopsys),2002
+LabVIEW,National Instruments,1986
+SAS,SAS Institute,1976
+Stata,StataCorp,1985
+D,Walter Bright,2001
+Pascal,Niklaus Wirth,1970
+Simula,Ole-Johan Dahl & Kristen Nygaard,1967
+Smalltalk,"Alan Kay, Dan Ingalls, Adele Goldberg",1972
+Logo,Seymour Papert et al.,1967
+Forth,Charles H. Moore,1970
+APL,Kenneth E. Iverson,1962
+RPG,IBM,1959
+PL/SQL,Oracle,1991
+T-SQL,Microsoft/Sybase,1989
+Dart,Google,2011
+Reason,Jordan Walke,2016
+ReScript,Hongbo Zhang,2019
+PureScript,Phil Freeman,2013
+Elm,Evan Czaplicki,2012
+Haxe,Nicolas Cannasse,2005
+Vala,Jürg Billeter & Raffaele Sandrini,2006
+Clojure,Rich Hickey,2007
+Common Lisp,Scott Fahlman et al.,1984
+Ada 2012,Ada community,2012
+CoffeeScript,Jeremy Ashkenas,2010
+LiveScript,Community fork,2014
+GDScript,Juan Linietsky & Ariel Manzur (Godot),2014
+Blueprints,Unreal Engine (visual),2014
+CFML,Allaire brothers (ColdFusion),1995
+FoxPro,Fox Software,1984
+Clarion,Bruce Barrington,1986
+MUMPS,Massachusetts General Hospital,1966
+PostScript,John Warnock & Charles Geschke,1982
+Raku,Larry Wall,2000
+Hack,Facebook,2014
+Q#,Microsoft,2018
+Ball,Microsoft Research,2019
+Move,Meta (Diem project),2019
+Cuneiform,Jörgen Gustavsson,2015
+Red,Nenad Rakočević,2011
+Rebol,Carl Sassenrath,1998
+Io,Steve Dekorte,2002
+Pony,Sylvan Clebsch & others,2013
+Gleam,Louis Pilfold,2016
+Odin,Bill Holden,2019
+Lobster,Mike Acton,2010
